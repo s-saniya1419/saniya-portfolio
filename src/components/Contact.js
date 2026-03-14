@@ -55,7 +55,7 @@ Feel free to reach out for collaborations, opportunities, or just a friendly cha
 <div className="social-icons">
 
 <a
-href="https://www.linkedin.com/in/saniya-sulthana-shaik-00755633b"
+href="https://github.com/s-saniya1419"
 target="_blank"
 rel="noopener noreferrer"
 >
